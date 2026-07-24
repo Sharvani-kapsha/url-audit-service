@@ -28,4 +28,4 @@ def test_valid_url():
 
     assert data["success"] is True
     assert "title" in data
-    assert "status_code" in datapyt
+    assert "status_code" in data
